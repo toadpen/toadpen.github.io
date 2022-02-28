@@ -1,0 +1,75 @@
+/*Universial styles*/
+header {
+  background-color: rgb(209, 194, 131);
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 5px;
+  color: white;
+}
+
+footer {
+  background-color: rgb(209, 194, 131);
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 5px;
+  color: white;
+  
+}
+
+/*Title styles*/
+.title-text {
+  color: white;
+  margin: 25px;
+  display: inline-block;
+  text-align: left !important;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.title-header {
+  margin: 25px;
+  display: inline-block;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.title-img {
+  float: left;
+  height: 60px;
+  transition: 0.4s;
+}
+
+.title-img:hover {
+  float: left;
+  height: 70px;
+}
+
+/*Section styles*/
+.section-home {
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.section-title {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.section-text {
+  color: black;
+  text-align: center;
+  padding: 5px;
+}
+
+/*Games styles*/
+
+.games-latest {
+  background-color: rgb(209, 194, 131);
+  font-family: 'Roboto Mono', monospace;
+  float: left;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
